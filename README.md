@@ -7,3 +7,6 @@ Velorex (VEX) is a decentralized finance token built on the BEP-20 platform. At 
 
 Currently, our primary focus is geared towards the implementation of the VEX token into a real world application in the form of essential innovative decentralized services. This will be realized by the ‘VEXchange’ which is being developed concurrently and will enable our users to experience low cost, high speed purchasing of products & procurement of services throughout the global online marketplace while providing a decentralized payment gateway, transfer protocol and asset storage capability for VEX token.
 
+velorex.sol is the main side of the token constrictuion, while velorexutil.sol is the Pancakeswap pair constructior (Created by Uniswap).
+
+Credits: Erdem Cankiran & Kovács János.
